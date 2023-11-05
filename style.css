@@ -17,6 +17,7 @@ body {
   div#portfolio{
     background-color:#F6F4D2;
     color:#A44A3F;
+    width: 100%;
   }
   
   div#about{
@@ -35,12 +36,12 @@ body {
   footer{
     background-color:#F6F4D2;
     color:#A44A3F;
+    width: 100%;
     text-align:center;
   }
   
   /* Navbar container */
   .navbar {
-    overflow: hidden;
     background-color: #A44A3F;
   }
   
